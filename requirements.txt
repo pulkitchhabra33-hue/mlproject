@@ -1,5 +1,11 @@
 numpy
 pandas
 seaborn
--e .
+scikit-learn
+mysql-connector-python
+python-dotenv
+scikit-learn
+sqlalchemy
+
+#-e .
 
