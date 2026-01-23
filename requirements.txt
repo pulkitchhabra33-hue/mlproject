@@ -6,8 +6,9 @@ mysql-connector-python
 python-dotenv
 scikit-learn
 sqlalchemy
-matplotlib
+matplotlibp
 catboost
 xgboost
+
 #-e .
 
